@@ -4,6 +4,8 @@
 
 ChatTranslate 是一款基于 Electron 开发的桌面端即时通讯翻译工具，支持 WhatsApp 和 Telegram 双平台。在聊天界面中实时显示翻译结果，让你像使用母语一样与全球客户沟通。
 
+**官网：[tr.whatslink.chat](https://tr.whatslink.chat)**
+
 ## 功能特性
 
 - **多平台支持** — WhatsApp 和 Telegram 双平台，自由切换
@@ -17,6 +19,10 @@ ChatTranslate 是一款基于 Electron 开发的桌面端即时通讯翻译工�
 - **自动语言检测** — 自动识别对方语言，无需手动设置
 
 ## 下载安装
+
+前往 **[tr.whatslink.chat](https://tr.whatslink.chat)** 获取最新版本下载链接。
+
+Releases 页面也提供各平台安装包。
 
 ### macOS
 
@@ -95,8 +101,9 @@ A: 在设置面板中选择"我的语言"和"对方语言"即可。
 
 ## 联系方式
 
-- 邮箱：[your-email@example.com]
-- 微信：[your-wechat]
+- 官网：[tr.whatslink.chat](https://tr.whatslink.chat)
+- 邮箱：[buchitanshuibuxing@gmail.com]
+- 
 
 ## License
 
